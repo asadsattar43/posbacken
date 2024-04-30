@@ -1,14 +1,13 @@
 {
   "name": "pos-backend",
   "version": "1.0.0",
-  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "jest",
     "start": "node app.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "asadsattar43",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
@@ -17,5 +16,17 @@
   },
   "devDependencies": {
     "jest": "^29.7.0"
-  }
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asadsattar43/posbacken.git"
+  },
+  "bugs": {
+    "url": "https://github.com/asadsattar43/posbacken/issues"
+  },
+  "homepage": "https://github.com/asadsattar43/posbacken#readme",
+  "description": ""
 }
